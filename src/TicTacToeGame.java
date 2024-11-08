@@ -71,7 +71,7 @@ class TicTacToeGame {
             for (int col = 0; col < board[row].length; col++) {
                 System.out.print(board[row][col] + " | ");
             }
-            System.out.println("Enter the");
+            System.out.println("Enter the number");
         }
     }
 }
